@@ -4,7 +4,7 @@ This is a simple registration form web application built using HTML, CSS, and Ja
 
 ## Preview
 
-[Registration Form Preview](https://github.com/Mahesh-Langote/registration-form-using-HTML-CSS-Js/edit/main/README.md)
+ [Registration Form Preview](https://mahesh-langote.github.io/Registration-Form-Using-HTML-CSS-JavaScript/)
 
 ## Features
 
